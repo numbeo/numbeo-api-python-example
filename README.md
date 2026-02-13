@@ -1,4 +1,4 @@
-# Numbeo Cost-of-Living Example (Python)
+# Numbeo API Example (Python)
 
 A command-line tool that fetches cost-of-living data from the
 [Numbeo API](https://www.numbeo.com/api/) and displays it as a sorted ASCII
