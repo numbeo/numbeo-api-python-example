@@ -1,9 +1,9 @@
 # Numbeo API Example (Python)
 
 A command-line tool that fetches cost-of-living data from the
-[Numbeo API](https://www.numbeo.com/api/) and displays it as a sorted ASCII
+[Numbeo API](https://www.numbeo.com/common/api.jsp) and displays it as a sorted ASCII
 table. For any city/country pair it shows average, lowest, and highest prices
-grouped by category.
+grouped by category. Please check [our API documentation](https://www.numbeo.com/api/doc.jsp)
 
 ## Requirements
 
